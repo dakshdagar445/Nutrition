@@ -1,0 +1,20 @@
+.food_li {
+margin-top: 13px;
+}
+.food_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.food_li h3 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.food_li p {
+    margin-top: 10px;
+}
+.food_li img {
+border-radius: 25px;
+}
+.kid.jpeg {
+    border-radius: 50px;
+}
